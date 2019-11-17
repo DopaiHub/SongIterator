@@ -6,7 +6,7 @@ import java.util.Iterator;
  */
 public class AlbumIterator implements Iterator {
 	/**
-	 * Has song array and int positoin
+	 * Has song array and int position
 	 */
 	private Song[] song;
 	private int position;
